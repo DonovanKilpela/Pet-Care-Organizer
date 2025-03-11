@@ -1,4 +1,4 @@
-### <font color="blue">Pet Care Organizer</font>
+### Pet Care Organizer
 #### Overview
 
 Pet Care Organizer is a comprehensive web application designed to help pet owners manage their pets' daily routines and needs efficiently. With multi-user support, task assignment, and tracking features, it's the perfect tool for families or households with shared pet care responsibilities.
@@ -12,13 +12,13 @@ Pet Care Organizer is a comprehensive web application designed to help pet owner
 
 ### Features
 
-- **<font color="green">Dashboard</font>**: Log daily tasks such as feeding, potty breaks, and grooming
-- **<font color="green">Appointment Tracker</font>**: Keep track of veterinary appointments
-- **<font color="green">Supply Management</font>**: Monitor and manage pet supply levels
-- **<font color="green">Multi-user Support</font>**: Collaborate on pet care with family members
-- **<font color="green">Task Assignment</font>**: Assign tasks to specific users
-- **<font color="green">Completion Tracking</font>**: Monitor who completed each task
-- **<font color="green">Reminders</font>**: Receive alerts for low supplies and upcoming appointments
+- **Dashboard**: Log daily tasks such as feeding, potty breaks, and grooming
+- **Appointment Tracker**: Keep track of veterinary appointments
+- **Supply Management**: Monitor and manage pet supply levels
+- **Multi-user Support**: Collaborate on pet care with family members
+- **Task Assignment**: Assign tasks to specific users
+- **Completion Tracking**: Monitor who completed each task
+- **Reminders**: Receive alerts for low supplies and upcoming appointments
 
 ### Technology Stack
 
@@ -38,9 +38,8 @@ Pet Care Organizer is a comprehensive web application designed to help pet owner
 
 ### Key Components
 
-- **<font color="blue">User Authentication</font>**: Secure login page
-- **<font color="blue">Session State</font>**: Track daily task progress and user preferences
-- **<font color="blue">Input Validation</font>**: Ensure data integrity (e.g., food quantity must be a number)
-- **<font color="blue">Dependency Injection</font>**: For easier testing and maintenance
-- **<font color="blue">Web API</font>**: Enable mobile access for logging tasks, assigning tasks, and updating supplies
-
+- **User Authentication**: Secure login page
+- **Session State**: Track daily task progress and user preferences
+- **Input Validation**: Ensure data integrity (e.g., food quantity must be a number)
+- **Dependency Injection**: For easier testing and maintenance
+- **Web API**: Enable mobile access for logging tasks, assigning tasks, and updating supplies
