@@ -8,7 +8,6 @@ Pet Care Organizer is a comprehensive web application designed to help pet owner
 - Maddie Livingston
 - Donovan Kilpela
 - Robert Green
-- Tristen Hibbert
 
 ### Features
 
