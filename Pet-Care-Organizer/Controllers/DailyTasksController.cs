@@ -8,11 +8,19 @@ namespace Pet_Care_Organizer.Controllers
         // Counter for genertating unique Ids
         private static int _nextId = 1;
 
+        // list to store Status options 
+        private static List<Status> _statusOptions = new()
+        {
+            new Status { StatusId = "Not Started", Name = "Not Started" },
+            new Status { StatusId = "In Progress", Name = "In Progress" },
+            new Status { StatusId = "Completed", Name = "Completed" }
+        };
         // temperary storage for tasks will remove when we use database
         private static List<DailyTasks> _tasks = new()
         {
-            new DailyTasks { Id = 1, Description = "Morning feeding", IsCompleted = false },
-            new DailyTasks { Id = 2, Description = "Afternoon walk", IsCompleted = true }
+            new DailyTasks { Id = 1, Description = "Morning feeding", StatusId = "Not Started" },
+            new DailyTasks { Id = 2, Description = "Afternoon walk", StatusId = "In Progress" },
+            new DailyTasks { Id = 3, Description = "Evening grooming", StatusId = "Completed" }
         };
 
         // Display all tasks
@@ -21,9 +29,19 @@ namespace Pet_Care_Organizer.Controllers
             return View(_tasks);
         }
 
-        // Handles new task creation, Doesn't work yet 
         public IActionResult Create()
         {
+            if (_statusOptions == null || !_statusOptions.Any())
+            {
+                _statusOptions = new List<Status>
+                {
+                    new Status { StatusId = "Not Started", Name = "Not Started" },
+                    new Status { StatusId = "In Progress", Name = "In Progress" },
+                    new Status { StatusId = "Completed", Name = "Completed" }
+                };
+            }
+            // Populate the status options for the dropdown
+            ViewBag.StatusOptions = _statusOptions;
             return View();
         }
 
@@ -39,8 +57,24 @@ namespace Pet_Care_Organizer.Controllers
         // Lets the user Edit a task, Doesn't work yet
         public IActionResult Edit(int id)
         {
+            if (_statusOptions == null || !_statusOptions.Any())
+            {
+                _statusOptions = new List<Status>
+                {
+                    new Status { StatusId = "Not Started", Name = "Not Started" },
+                    new Status { StatusId = "In Progress", Name = "In Progress" },
+                    new Status { StatusId = "Completed", Name = "Completed" }
+                };
+            }
+
+            // Populate the status options for the dropdown
+            ViewBag.StatusOptions = _statusOptions;
+
             var task = _tasks.FirstOrDefault(t => t.Id == id);
-            if (task == null) return NotFound();
+            if (task == null) 
+                return NotFound();
+
+
             return View(task);
         }
 
@@ -48,11 +82,22 @@ namespace Pet_Care_Organizer.Controllers
         [HttpPost]
         public IActionResult Edit(DailyTasks updatedTask)
         {
+            if (_statusOptions == null || !_statusOptions.Any())
+            {
+                _statusOptions = new List<Status>
+                {
+                    new Status { StatusId = "Not Started", Name = "Not Started" },
+                    new Status { StatusId = "In Progress", Name = "In Progress" },
+                    new Status { StatusId = "Completed", Name = "Completed" }
+                };
+            }
+            // Populate the status options for the dropdown
+            ViewBag.StatusOptions = _statusOptions;
             var existingTask = _tasks.FirstOrDefault(t => t.Id == updatedTask.Id);
             if (existingTask == null) return NotFound();
 
             existingTask.Description = updatedTask.Description;
-            existingTask.IsCompleted = updatedTask.IsCompleted;
+            existingTask.StatusId = updatedTask.StatusId;
 
             return RedirectToAction("Index");
         }
@@ -60,6 +105,7 @@ namespace Pet_Care_Organizer.Controllers
         // Allows user to delete a task, Doesn't work yet
         public IActionResult Delete(int id)
         {
+
             var task = _tasks.FirstOrDefault(t => t.Id == id);
             if (task == null) return NotFound();
             return View(task);

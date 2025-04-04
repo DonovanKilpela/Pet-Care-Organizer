@@ -1,0 +1,25 @@
+﻿@model DailyTasks
+
+@{
+    ViewData["Title"] = "Edit Daily Task";
+}
+
+<h1>@ViewData["Title"]</h1>
+<div class="container mt-4">
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label"></label>
+            <input asp-for="Description" class="form-control custom-focus" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="StatusId" class="form-label">Status:</label>
+            <select asp-for="StatusId" class="form-select custom-focus"
+                    asp-items="@(new SelectList(ViewBag.StatusOptions, "StatusId", "Name"))">
+                <option value="">Select Status</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-purple">Update</button>
+    </form>
+</div>

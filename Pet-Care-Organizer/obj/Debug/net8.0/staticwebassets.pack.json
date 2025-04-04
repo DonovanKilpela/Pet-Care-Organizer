@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Pet-Care-Organizer.utyhkmgaxv.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
+      "PackagePath": "staticwebassets\\Images\\footprint.jpg"
+    },
+    {
       "Id": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ATCkgz5m9rs6vIylaXk4w31JfhwSPLOp/Ey4eTNzybA=",
+  "Hash": "qXVoob7Nk0hrL4hBXWfKk0YSOQUnknehZbKG6rEYuUs=",
   "Source": "Pet-Care-Organizer",
   "BasePath": "_content/Pet-Care-Organizer",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "qttofvzxux",
-      "Integrity": "/mcjkeYVCtBPXV14j9L+MCEF+57CC+ZyfLU5YZyVTPs=",
+      "Fingerprint": "3y4h1scnie",
+      "Integrity": "tbtJme5pd3PhtcfZo2oi9GcNbz8wVyRwy7asFIuplyo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\",
+      "BasePath": "_content/Pet-Care-Organizer",
+      "RelativePath": "Images/footprint#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kxhkq76k2e",
+      "Integrity": "yM3kNT9CeLR1ehJ5LHu7LKIU/U7HjLWuKzlHbBU510M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\footprint.jpg"
     },
     {
       "Identity": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\js\\site.js",
@@ -136,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "mpyigms19s",
-      "Integrity": "xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=",
+      "Fingerprint": "1wiw2wf7xi",
+      "Integrity": "oZkNwdRaJAZtvKE5g8WUDXSpsBUEeGZpfUfj9N3KiyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
@@ -1321,6 +1342,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.3y4h1scnie.css",
+      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tbtJme5pd3PhtcfZo2oi9GcNbz8wVyRwy7asFIuplyo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 05:00:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3y4h1scnie"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tbtJme5pd3PhtcfZo2oi9GcNbz8wVyRwy7asFIuplyo="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1331,7 +1397,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "748"
+          "Value": "1312"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1405,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/mcjkeYVCtBPXV14j9L+MCEF+57CC+ZyfLU5YZyVTPs=\""
+          "Value": "\"tbtJme5pd3PhtcfZo2oi9GcNbz8wVyRwy7asFIuplyo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 09:42:37 GMT"
+          "Value": "Fri, 04 Apr 2025 05:00:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,52 +1419,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/mcjkeYVCtBPXV14j9L+MCEF+57CC+ZyfLU5YZyVTPs="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.qttofvzxux.css",
-      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "748"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/mcjkeYVCtBPXV14j9L+MCEF+57CC+ZyfLU5YZyVTPs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 09:42:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qttofvzxux"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-/mcjkeYVCtBPXV14j9L+MCEF+57CC+ZyfLU5YZyVTPs="
+          "Value": "sha256-tbtJme5pd3PhtcfZo2oi9GcNbz8wVyRwy7asFIuplyo="
         }
       ]
     },
@@ -1485,6 +1506,88 @@
       ]
     },
     {
+      "Route": "Images/footprint.jpg",
+      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yM3kNT9CeLR1ehJ5LHu7LKIU/U7HjLWuKzlHbBU510M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 04:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yM3kNT9CeLR1ehJ5LHu7LKIU/U7HjLWuKzlHbBU510M="
+        }
+      ]
+    },
+    {
+      "Route": "Images/footprint.kxhkq76k2e.jpg",
+      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yM3kNT9CeLR1ehJ5LHu7LKIU/U7HjLWuKzlHbBU510M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 04:37:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kxhkq76k2e"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/footprint.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yM3kNT9CeLR1ehJ5LHu7LKIU/U7HjLWuKzlHbBU510M="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1567,6 +1670,51 @@
       ]
     },
     {
+      "Route": "lib/bootstrap/dist/css/bootstrap.1wiw2wf7xi.css",
+      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "204157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oZkNwdRaJAZtvKE5g8WUDXSpsBUEeGZpfUfj9N3KiyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 01:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1wiw2wf7xi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oZkNwdRaJAZtvKE5g8WUDXSpsBUEeGZpfUfj9N3KiyQ="
+        }
+      ]
+    },
+    {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
@@ -1577,7 +1725,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "204136"
+          "Value": "204157"
         },
         {
           "Name": "Content-Type",
@@ -1585,11 +1733,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
+          "Value": "\"oZkNwdRaJAZtvKE5g8WUDXSpsBUEeGZpfUfj9N3KiyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 09:16:44 GMT"
+          "Value": "Fri, 04 Apr 2025 01:56:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1599,7 +1747,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
+          "Value": "sha256-oZkNwdRaJAZtvKE5g8WUDXSpsBUEeGZpfUfj9N3KiyQ="
         }
       ]
     },
@@ -1846,51 +1994,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204136"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 09:16:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mpyigms19s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xlexqj9/k3uobVwGfciZcj/eDdooaNgcf4OFLtLUygM="
         }
       ]
     },
