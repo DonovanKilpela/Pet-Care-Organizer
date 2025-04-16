@@ -139,7 +139,8 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.25rem;
+    font-size: 1.25rem;
+    color: #CF9FFF;
 }
 
 h6, .h6 {
@@ -11217,5 +11218,4 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-
 /*# sourceMappingURL=bootstrap.css.map */

@@ -1,0 +1,7 @@
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\Pet-Care-Organizer.exe
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\Pet-Care-Organizer.dll
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\Pet-Care-Organizer.deps.json
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\Pet-Care-Organizer.runtimeconfig.json
+C:\Users\donov\Documents\School Stuff\Advanced C#\Final Project\Pet-Care-Organizer\obj\Release\net8.0\PubTmp\Out\Pet-Care-Organizer.pdb

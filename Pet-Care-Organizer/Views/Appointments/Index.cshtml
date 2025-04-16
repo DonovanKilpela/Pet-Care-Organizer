@@ -1,0 +1,40 @@
+﻿@model Pet_Care_Organizer.ViewModels.AppointmentsViewModel
+
+<div class="container mt-4">
+    <h2 class="display-4 align-content-center">Appointments Calendar</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Appointments</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var day in Model.Days)
+            {
+                <tr>
+                    <td>@day.ToString("dddd, MMM dd")</td>
+                    <td>
+                        @foreach (var appointment in Model.Appointments.Where(a => a.Date.Date == day.Date))
+                        {
+                            <div class="alert alert-primary">@appointment.Title</div>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h3>Add Appointment</h3>
+    <form method="post" action="/Calendar/AddAppointment">
+        <div class="mb-3">
+            <label for="date" class="form-label">Date:</label>
+            <input type="date" id="date" name="Date" class="form-control" required />
+        </div>
+        <div class="mb-3">
+            <label for="title" class="form-label">Title:</label>
+            <input type="text" id="title" name="Title" class="form-control" required />
+        </div>
+        <button type="submit" class="btn btn-success">Add Appointment</button>
+    </form>
+</div>
