@@ -2,9 +2,12 @@
 using Pet_Care_Organizer.Models;
 using Pet_Care_Organizer.ViewModels;
 using System.Runtime.CompilerServices;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace Pet_Care_Organizer.Controllers
 {
+    [Authorize]
     public class AppointmentsController : Controller
     {
         private static List<Appointments> appointments = new List<Appointments>();
