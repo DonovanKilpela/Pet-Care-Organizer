@@ -19,6 +19,8 @@ namespace Pet_Care_Organizer
                 .AddEntityFrameworkStores<ApplicationDbContext>();
 
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession();
+
 
             var app = builder.Build();
 
@@ -47,6 +49,7 @@ namespace Pet_Care_Organizer
             app.UseStaticFiles();
             app.UseRouting();
             app.UseAuthentication();
+            app.UseSession();
             app.UseAuthorization();
 
             app.MapControllerRoute(
