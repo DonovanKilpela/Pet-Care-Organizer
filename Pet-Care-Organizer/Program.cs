@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Pet_Care_Organizer.Data;
+
 namespace Pet_Care_Organizer
 {
     public class Program
@@ -5,6 +8,9 @@ namespace Pet_Care_Organizer
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
