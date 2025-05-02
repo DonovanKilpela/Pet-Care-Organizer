@@ -1,7 +1,11 @@
 {
   "Version": 1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "Hash": "lHxUj0NrMH/lIdB1voFm7HK7wwuDQrJHscBxMSdvlgg=",
+=======
+  "Hash": "lO93DRFp5ON7ZgWUM0Py1p7f2nSRHdbkaOqjqf1aew8=",
+>>>>>>> Stashed changes
 =======
   "Hash": "lO93DRFp5ON7ZgWUM0Py1p7f2nSRHdbkaOqjqf1aew8=",
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@
       "Name": "Pet-Care-Organizer\\wwwroot",
       "Source": "Pet-Care-Organizer",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
 >>>>>>> Stashed changes
@@ -25,6 +33,7 @@
   ],
   "Assets": [
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
@@ -1176,6 +1185,12 @@
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
 >>>>>>> Stashed changes
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pet-Care-Organizer.styles.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> Stashed changes
       "BasePath": "_content/Pet-Care-Organizer",
       "RelativePath": "Pet-Care-Organizer.styles.css",
       "AssetKind": "All",
@@ -1189,6 +1204,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "OriginalItemSpec": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pet-Care-Organizer.styles.css"
     },
     {
@@ -1196,6 +1212,15 @@
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pet-Care-Organizer.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pet-Care-Organizer.bundle.scp.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> Stashed changes
 =======
       "OriginalItemSpec": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Pet-Care-Organizer.styles.css"
     },
@@ -1218,6 +1243,7 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "OriginalItemSpec": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pet-Care-Organizer.bundle.scp.css"
     },
     {
@@ -1225,6 +1251,15 @@
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pet-Care-Organizer.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\css\\site.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "OriginalItemSpec": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Pet-Care-Organizer.bundle.scp.css"
     },
@@ -1250,10 +1285,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\favicon.ico",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\favicon.ico",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\favicon.ico",
       "SourceId": "Pet-Care-Organizer",
@@ -1276,10 +1318,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\Images\\footprint.jpg",
       "SourceId": "Pet-Care-Organizer",
@@ -1302,10 +1351,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\js\\site.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\js\\site.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\js\\site.js",
       "SourceId": "Pet-Care-Organizer",
@@ -1328,10 +1384,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1354,10 +1417,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1380,10 +1450,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1406,10 +1483,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1432,10 +1516,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1458,10 +1549,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1484,10 +1582,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1510,10 +1615,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1536,10 +1648,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1562,10 +1681,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1588,10 +1714,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1614,10 +1747,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1640,10 +1780,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1666,10 +1813,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1692,10 +1846,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1718,10 +1879,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1744,10 +1912,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1770,10 +1945,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1796,10 +1978,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1822,10 +2011,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1848,10 +2044,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1874,10 +2077,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1900,10 +2110,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1926,10 +2143,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -1952,10 +2176,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Pet-Care-Organizer",
@@ -1978,10 +2209,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2004,10 +2242,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -2030,10 +2275,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2056,10 +2308,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Pet-Care-Organizer",
@@ -2082,10 +2341,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2108,10 +2374,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Pet-Care-Organizer",
@@ -2134,10 +2407,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2160,10 +2440,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2186,10 +2473,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2212,10 +2506,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2238,10 +2539,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2264,10 +2572,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2290,10 +2605,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2316,10 +2638,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2342,10 +2671,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2368,10 +2704,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2394,10 +2737,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2420,10 +2770,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2446,10 +2803,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2472,10 +2836,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Pet-Care-Organizer",
@@ -2498,10 +2869,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2524,10 +2902,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2550,10 +2935,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Pet-Care-Organizer",
@@ -2576,10 +2968,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Pet-Care-Organizer",
@@ -2602,10 +3001,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2628,10 +3034,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2654,10 +3067,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2680,10 +3100,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2706,10 +3133,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Pet-Care-Organizer",
@@ -2732,10 +3166,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2758,10 +3199,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Pet-Care-Organizer",
@@ -2784,10 +3232,17 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Identity": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Pet-Care-Organizer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Pet-Care-Organizer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\",
+>>>>>>> Stashed changes
 =======
       "Identity": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Pet-Care-Organizer",

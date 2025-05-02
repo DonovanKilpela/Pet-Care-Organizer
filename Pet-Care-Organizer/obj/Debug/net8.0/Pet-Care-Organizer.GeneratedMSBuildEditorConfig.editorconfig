@@ -18,7 +18,11 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Pet_Care_Organizer
 build_property.RootNamespace = Pet_Care_Organizer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 build_property.ProjectDir = C:\Users\maddi\Source\Repos\Pet-Care-Organizer\Pet-Care-Organizer\
+=======
+build_property.ProjectDir = C:\Users\donov\Downloads\Pet-Care-Organizer\Pet-Care-Organizer\
+>>>>>>> Stashed changes
 =======
 build_property.ProjectDir = C:\Users\donov\Downloads\Pet-Care-Organizer\Pet-Care-Organizer\
 >>>>>>> Stashed changes
@@ -28,12 +32,17 @@ build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 build_property.MSBuildProjectDirectory = C:\Users\maddi\Source\Repos\Pet-Care-Organizer\Pet-Care-Organizer
+=======
+build_property.MSBuildProjectDirectory = C:\Users\donov\Downloads\Pet-Care-Organizer\Pet-Care-Organizer
+>>>>>>> Stashed changes
 =======
 build_property.MSBuildProjectDirectory = C:\Users\donov\Downloads\Pet-Care-Organizer\Pet-Care-Organizer
 >>>>>>> Stashed changes
 build_property._RazorSourceGeneratorDebug = 
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [C:/Users/maddi/Source/Repos/Pet-Care-Organizer/Pet-Care-Organizer/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
@@ -96,6 +105,53 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/maddi/Source/Repos/Pet-Care-Organizer/Pet-Care-Organizer/Views/Shared/_Layout.cshtml]
+=======
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Appointments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/DailyTasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlUYXNrc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/DailyTasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlUYXNrc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/DailyTasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlUYXNrc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Supplies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Supplies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Supplies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Supplies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Shared/_Layout.cshtml]
+>>>>>>> Stashed changes
 =======
 [C:/Users/donov/Downloads/Pet-Care-Organizer/Pet-Care-Organizer/Views/Appointments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRzXEluZGV4LmNzaHRtbA==

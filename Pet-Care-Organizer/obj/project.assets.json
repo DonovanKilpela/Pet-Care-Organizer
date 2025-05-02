@@ -8008,8 +8008,11 @@
   },
   "packageFolders": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "C:\\Users\\maddi\\.nuget\\packages\\": {}
 =======
+=======
+>>>>>>> Stashed changes
     "C:\\Users\\donov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
 >>>>>>> Stashed changes
@@ -8017,6 +8020,7 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
       "projectName": "Pet-Care-Organizer",
@@ -8030,11 +8034,21 @@
       "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
 >>>>>>> Stashed changes
+=======
+      "projectUniqueName": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
+      "projectName": "Pet-Care-Organizer",
+      "projectPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
+      "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:\\Users\\maddi\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
+=======
+>>>>>>> Stashed changes
         "C:\\Users\\donov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 >>>>>>> Stashed changes
