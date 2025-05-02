@@ -61,13 +61,21 @@
           "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Status.cs",
               "DocumentMoniker": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Status.cs",
               "RelativeDocumentMoniker": "Models\\Status.cs",
-              "ToolTip": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Status.cs*",
-              "RelativeToolTip": "Models\\Status.cs*",
+              "ToolTip": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Status.cs",
+              "RelativeToolTip": "Models\\Status.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T00:19:09.838Z",
@@ -79,8 +87,8 @@
               "Title": "DailyTasks.cs",
               "DocumentMoniker": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
               "RelativeDocumentMoniker": "Models\\DailyTasks.cs",
-              "ToolTip": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\DailyTasks.cs*",
-              "RelativeToolTip": "Models\\DailyTasks.cs*",
+              "ToolTip": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
+              "RelativeToolTip": "Models\\DailyTasks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T00:17:04.724Z",
@@ -98,14 +106,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T00:15:40.447Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -190,7 +190,7 @@
               "RelativeDocumentMoniker": "Models\\Supplies.cs",
               "ToolTip": "C:\\Users\\Rober\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Supplies.cs",
               "RelativeToolTip": "Models\\Supplies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T02:45:56.097Z",
               "EditorCaption": ""

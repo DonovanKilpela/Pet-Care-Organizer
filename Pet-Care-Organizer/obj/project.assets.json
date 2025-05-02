@@ -4723,23 +4723,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rober\\.nuget\\packages\\": {},
+    "C:\\Users\\donov\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rober\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
+      "projectUniqueName": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
       "projectName": "Pet-Care-Organizer",
-      "projectPath": "C:\\Users\\Rober\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
-      "packagesPath": "C:\\Users\\Rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rober\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
+      "projectPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
+      "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\donov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
