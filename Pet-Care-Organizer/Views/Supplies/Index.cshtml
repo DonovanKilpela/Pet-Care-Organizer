@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Pet_Care_Organizer.Models.Supplies>
+
+<div class="container mt-4">
+    <h2>Supplies Inventory</h2>
+    <a asp-action="Create" class="btn btn-success mb-3">Add New Supply</a>
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Name</th>
+                <th>Quantity</th>
+                <th>Low Threshold</th>
+                <th>Days Remaining</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var supply in Model)
+            {
+                <tr class="@(supply.Quantity < supply.LowThreshold ? "table-danger" : "")">
+                    <td>@supply.Name</td>
+                    <td>@supply.Quantity</td>
+                    <td>@supply.LowThreshold</td>
+                    <td>
+                        @(supply.EstimatedUsagePerDay > 0
+                            ? (supply.Quantity / supply.EstimatedUsagePerDay).ToString("0.##")
+                            : "N/A")
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@supply.Id" class="btn btn-primary btn-sm">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@supply.Id" class="btn btn-danger btn-sm">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
