@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pet_Care_Organizer.Models;
+using Microsoft.AspNetCore.Authorization;
+
 
 namespace Pet_Care_Organizer.Controllers
 {
+    [Authorize]
     public class DailyTasksController : Controller
     {
         // Counter for genertating unique Ids

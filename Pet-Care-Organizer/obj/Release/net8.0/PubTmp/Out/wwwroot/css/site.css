@@ -18,19 +18,25 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    background-image: url('/images/footprint.jpg');
+}
+.container {
+    background-color: rgba(255, 255, 255, .8);
+    
 }
 
 .clickable-card {
     transition: all 0.3s ease;
     border: 2px solid transparent;
+    border-radius: 90px
+
 }
 
 .clickable-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-    border-color: var(--bs-primary);
-    }
+    border-color: #CF9FFF;
+}
 
 .clickable-card .badge {
     transition: all 0.3s ease;
@@ -40,3 +46,28 @@ body {
 .clickable-card:hover .badge {
     opacity: 1;
     }
+
+.text-purple {
+    color: #800080;
+}
+
+.btn-purple {
+    background-color: var(--bs-purple);
+    color: var(--bs-white); 
+    border: none; 
+}
+
+.badge-purple {
+    background-color: #6f42c1; 
+    color: white;
+}
+.custom-focus:focus {
+    border-color: #6c63ff; 
+    box-shadow: 0 0 5px rgba(108, 99, 255, 0.5); 
+    outline: none;
+}
+
+.th, td, thead, tr {
+    border: 2px solid #CF9FFF;
+    color: #650a6f
+}
