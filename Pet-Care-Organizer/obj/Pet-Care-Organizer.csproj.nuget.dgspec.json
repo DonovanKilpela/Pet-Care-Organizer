@@ -1,21 +1,7 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
-        "projectName": "Pet-Care-Organizer",
-        "projectPath": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
-        "packagesPath": "C:\\Users\\maddi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maddi\\Source\\Repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
-=======
-    "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {}
+    "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {}
   },
   "projects": {
     "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {
@@ -25,21 +11,7 @@
         "projectName": "Pet-Care-Organizer",
         "projectPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
->>>>>>> Stashed changes
-=======
-    "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
-        "projectName": "Pet-Care-Organizer",
-        "projectPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\Pet-Care-Organizer.csproj",
-        "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\donov\\Downloads\\Pet-Care-Organizer\\Pet-Care-Organizer\\obj\\",
->>>>>>> Stashed changes
+        "outputPath": "C:\\Users\\donov\\Documents\\School Stuff\\Advanced C#\\Final Project\\Pet-Care-Organizer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
 <<<<<<< Updated upstream
@@ -81,30 +53,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.AspNetCore.Identity.UI": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[8.0.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
