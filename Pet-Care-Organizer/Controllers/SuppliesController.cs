@@ -1,23 +1,24 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pet_Care_Organizer.Models;
-using Microsoft.EntityFrameworkCore;
-using Pet_Care_Organizer.Data;
-
+using Microsoft.AspNetCore.Authorization;
+using Pet_Care_Organizer.Repositories;
+using System.Collections.Generic;
 
 namespace Pet_Care_Organizer.Controllers
 {
+    [Authorize]
     public class SuppliesController : Controller
     {
-        private readonly ApplicationDbContext _context;
-        public SuppliesController(ApplicationDbContext context)
+        private readonly ISuppliesRepository _repository;
+
+        public SuppliesController(ISuppliesRepository repository)
         {
-            _context = context;
+            _repository = repository;
         }
 
         public IActionResult Index()
         {
-            var supplies = _context.Supplies.ToList();
-            return View(supplies);
+            return View(_repository.GetAll());
         }
 
         public IActionResult Create() => View();
@@ -27,8 +28,7 @@ namespace Pet_Care_Organizer.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Supplies.Add(supply);
-                _context.SaveChanges();
+                _repository.Add(supply);
                 return RedirectToAction(nameof(Index));
             }
             return View(supply);
@@ -38,7 +38,7 @@ namespace Pet_Care_Organizer.Controllers
         {
             if (id == null) return NotFound();
 
-            var supply = _context.Supplies.Find(id);
+            var supply = _repository.GetById(id.Value);
             return supply == null ? NotFound() : View(supply);
         }
 
@@ -49,61 +49,29 @@ namespace Pet_Care_Organizer.Controllers
 
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _context.Update(supply);
-                    _context.SaveChanges();
-                    return RedirectToAction(nameof(Index));
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!SupplyExists(supply.Id))
-                    {
-                        return NotFound();
-                    }
-                    throw;
-                }
+                var updated = _repository.Update(supply);
+                if (!updated) return NotFound();
+                return RedirectToAction(nameof(Index));
             }
             return View(supply);
         }
 
-        // GET: Supplies/Delete/5
         public IActionResult Delete(int? id)
         {
             if (id == null) return NotFound();
 
-            var supply = _context.Supplies
-                .FirstOrDefault(m => m.Id == id);
-
+            var supply = _repository.GetById(id.Value);
             if (supply == null) return NotFound();
 
             return View(supply);
         }
 
-        // POST: Supplies/Delete/5
         [HttpPost, ActionName("Delete")]
         public IActionResult DeleteConfirmed(int id)
         {
-            var supply = _context.Supplies.Find(id);
-            if (supply == null) return NotFound();
-
-            try
-            {
-                _context.Supplies.Remove(supply);
-                _context.SaveChanges();
-                return RedirectToAction(nameof(Index));
-            }
-            catch (DbUpdateException)
-            {
-                ModelState.AddModelError("", "Unable to delete supply. Please try again.");
-                return View(supply);
-            }
+            var deleted = _repository.Delete(id);
+            if (!deleted) return NotFound();
+            return RedirectToAction(nameof(Index));
         }
-
-        private bool SupplyExists(int id)
-        {
-            return _context.Supplies.Any(e => e.Id == id);
-        }
-
     }
 }
