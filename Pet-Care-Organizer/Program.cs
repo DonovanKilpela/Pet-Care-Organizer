@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using Pet_Care_Organizer.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore.SqlServer;
+using Pet_Care_Organizer.Repositories;
+
 
 namespace Pet_Care_Organizer
 {
@@ -33,6 +35,13 @@ namespace Pet_Care_Organizer
 
             builder.Services.AddDefaultIdentity<IdentityUser>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            builder.Services.AddScoped<IAppointmentRepository, AppointmentRepository>();
+            builder.Services.AddScoped<IDailyTasksRepository, DailyTasksRepository>();
+            builder.Services.AddScoped<IStatusRepository, StatusRepository>();
+            builder.Services.AddScoped<ISuppliesRepository, SuppliesRepository>();
+
+
 
             var app = builder.Build();
 
