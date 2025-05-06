@@ -3,12 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 using Pet_Care_Organizer.Models;
 using Microsoft.AspNetCore.Authorization;
 
-
 namespace Pet_Care_Organizer.Controllers
 {
     public class HomeController : Controller
     {
-        // Calls the Index view for the landing page of the project
         public IActionResult Index()
         {
             if (User.Identity.IsAuthenticated)
@@ -22,8 +20,5 @@ namespace Pet_Care_Organizer.Controllers
 
             return View();
         }
-
-
-
     }
 }

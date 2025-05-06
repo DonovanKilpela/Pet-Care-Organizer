@@ -1,3 +1,8 @@
+using Microsoft.EntityFrameworkCore;
+using Pet_Care_Organizer.Data;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore.SqlServer;
+
 namespace Pet_Care_Organizer
 {
     public class Program
@@ -6,29 +11,36 @@ namespace Pet_Care_Organizer
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // Add CORS configuration
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("Development",
+                    builder => builder
+                        .AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
+            });
+
             builder.Services.AddControllersWithViews();
+            builder.Services.AddControllers();
             builder.Services.AddSession();
 
+            var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
+                ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(connectionString));
+
+            builder.Services.AddDefaultIdentity<IdentityUser>()
+                .AddEntityFrameworkStores<ApplicationDbContext>();
 
             var app = builder.Build();
 
-            // 🌟 Auto-run database migrations safely with try-catch
-            using (var scope = app.Services.CreateScope())
+            if (app.Environment.IsDevelopment())
             {
-                try
-                {
-                    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-                    dbContext.Database.Migrate();
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"Error applying migrations: {ex.Message}");
-                    
-                }
+                app.UseCors("Development");  // Add this inside Development check
             }
-
-            if (!app.Environment.IsDevelopment())
+            else
             {
                 app.UseExceptionHandler("/Home/Error");
                 app.UseHsts();
@@ -45,6 +57,7 @@ namespace Pet_Care_Organizer
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
+            app.MapControllers();
             app.MapRazorPages();
 
             app.Run();
