@@ -1,24 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\",
+  "WorkspaceRootPath": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63E2D63D-FE3F-4A9C-81C0-575F9CF22013}|..\\Pet-Care-OrganizerTests\\Pet-Care-OrganizerTests.csproj|c:\\users\\donov\\desktop\\final project\\pet-care-organizertests\\models\\appointmentsmodeltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Migrations\\20250507190326_RecreateAllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250507190326_RecreateAllTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\donov\\desktop\\final project\\pet-care-organizer\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\donov\\desktop\\final project\\pet-care-organizer\\models\\dailytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\models\\dailytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:models\\dailytasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\donov\\desktop\\final project\\pet-care-organizer\\models\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\models\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:models\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\donov\\desktop\\final project\\pet-care-organizer\\controllers\\dailytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|c:\\users\\maddi\\source\\repos\\pet-care-organizer\\pet-care-organizer\\controllers\\dailytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF0F6E-083F-4C96-8ACE-D4A99D620A9B}|Pet-Care-Organizer.csproj|solutionrelative:controllers\\dailytaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -29,28 +41,74 @@
       "DocumentGroups": [
         {
           "DockedWidth": 367,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Appointments.cs",
-              "DocumentMoniker": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\Appointments.cs",
-              "RelativeDocumentMoniker": "Models\\Appointments.cs",
-              "ToolTip": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\Appointments.cs",
-              "RelativeToolTip": "Models\\Appointments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20250507190326_RecreateAllTables.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Migrations\\20250507190326_RecreateAllTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250507190326_RecreateAllTables.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Migrations\\20250507190326_RecreateAllTables.cs",
+              "RelativeToolTip": "Migrations\\20250507190326_RecreateAllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:47:46.616Z",
+              "WhenOpened": "2025-05-07T19:03:27.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:59:51.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T18:49:36.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Appointments.cs",
+              "RelativeDocumentMoniker": "Models\\Appointments.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Appointments.cs",
+              "RelativeToolTip": "Models\\Appointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:47:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Supplies.cs",
-              "DocumentMoniker": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\Supplies.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Supplies.cs",
               "RelativeDocumentMoniker": "Models\\Supplies.cs",
-              "ToolTip": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\Supplies.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\Supplies.cs",
               "RelativeToolTip": "Models\\Supplies.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,47 +116,39 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DailyTasks.cs",
-              "DocumentMoniker": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
               "RelativeDocumentMoniker": "Models\\DailyTasks.cs",
-              "ToolTip": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Models\\DailyTasks.cs",
               "RelativeToolTip": "Models\\DailyTasks.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:44:13.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T02:44:13.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "DailyTasksController.cs",
-              "DocumentMoniker": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Controllers\\DailyTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Controllers\\DailyTasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\DailyTasksController.cs",
-              "ToolTip": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-Organizer\\Controllers\\DailyTasksController.cs",
+              "ToolTip": "C:\\Users\\maddi\\source\\repos\\Pet-Care-Organizer\\Pet-Care-Organizer\\Controllers\\DailyTasksController.cs",
               "RelativeToolTip": "Controllers\\DailyTasksController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T02:40:58.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T02:40:58.132Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "AppointmentsModelTests.cs",
               "DocumentMoniker": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
-              "RelativeDocumentMoniker": "..\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\donov\\Desktop\\Final Project\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
               "ToolTip": "C:\\Users\\donov\\Desktop\\Final Project\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
-              "RelativeToolTip": "..\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\donov\\Desktop\\Final Project\\Pet-Care-OrganizerTests\\Models\\AppointmentsModelTests.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T01:40:07.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T01:40:07.938Z"
             }
           ]
         },

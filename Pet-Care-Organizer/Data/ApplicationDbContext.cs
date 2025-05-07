@@ -1,10 +1,11 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Pet_Care_Organizer.Models;
 
 namespace Pet_Care_Organizer.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -20,7 +21,7 @@ namespace Pet_Care_Organizer.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Seed initial Status data
+            // Seed data for the Status table
             modelBuilder.Entity<Status>().HasData(
                 new Status { StatusId = "NEW", Name = "Not Started" },
                 new Status { StatusId = "INP", Name = "In Progress" },

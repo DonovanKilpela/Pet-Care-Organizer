@@ -8,6 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Areas\Identity\Data\ApplicationDbContext.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
     <Folder Include="wwwroot\Images\" />
   </ItemGroup>
 
